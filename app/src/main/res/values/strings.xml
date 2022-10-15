@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">dost</string>
+    <string name="contactus">Contact Us</string>
+    <string name="PA">Pet\'s Adoption</string>
+    <string name="FILP">Find your lovely pet\'s</string>
+    <string name="adopt">Adopt</string>
+    <string name="drawer">Drawer</string>
+    <string name="tapn">Type a pet name</string>
+    <string name="SI">Search Icon</string>
+    <string name="FYP">Find your pet</string>
+    <string name="donate">Donate</string>
+    <string name="name1">Soumyaranjan Panda</string><string name="bio1">Cuttack</string>
+    <string name="name2">Sid</string>
+    <string name="name3">Ashu</string>
+    <string name="name4">Trup</string>
+    <string name="name5">Tani</string>
+    <string name="name6">Rudy</string>
+    <string name="name7">Prat</string>
+    <string name="name8">Anki</string>
+    <string name="name9">Bisu</string>
+    <string name="name10">Ani</string>
+    <string name="name11">Sati</string>
+
+
+
+</resources>
